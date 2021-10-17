@@ -1,0 +1,30 @@
+{
+  "name": "SnowCrash DAO",
+  "timestamp": "2021-10-15T10:30:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://tokens.snowcrash.finance/assets/SnowCrashDAO-interface.svg",
+  "keywords": ["snowcrashdao", "metavoxel", "gamefi", "defi", "playtoearn"],
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x1f39dd2bf5a27e2d4ed691dcf933077371777cb0",
+      "name": "SnowCrash Token",
+      "symbol": "Nora",
+      "decimals": 18,
+      "logoURI": "https://tokens.snowcrash.finance/assets/Nora.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x75c7651ecdabbea371109f999e57711540f0ec27",
+      "name": "Pushinka Doge Token",
+      "symbol": "PushDoge",
+      "decimals": 18,
+      "logoURI": "https://tokens.snowcrash.finance/assets/PushDoge.svg"
+    }
+  ]
+}
