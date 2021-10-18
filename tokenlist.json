@@ -25,6 +25,14 @@
       "symbol": "PushDoge",
       "decimals": 18,
       "logoURI": "https://tokens.snowcrash.finance/assets/PushDoge.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x75c7651ecdabbea371109f999e57711540f0ec27",
+      "name": "Meme MetaVoxelDAO",
+      "symbol": "Me3",
+      "decimals": 18,
+      "logoURI": "https://tokens.snowcrash.finance/assets/Me3.svg"
     }
   ]
 }
